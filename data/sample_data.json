@@ -1,0 +1,18 @@
+[
+    {
+        "message": "Accident reported on Main Street.",
+        "context": {
+            "location": "Main Street",
+            "severity": "High",
+            "time": "14:45"
+        }
+    },
+    {
+        "message": "Road construction ahead, expect delays.",
+        "context": {
+            "location": "Highway 101",
+            "duration": "2 hours",
+            "date": "2023-10-15"
+        }
+    }
+]
