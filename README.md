@@ -2,7 +2,7 @@
 
 **Integrating the Power of Language Models into Next-Gen Vehicle Communication**
 
-![Banner Image](docs/images/banner.png)
+![Banner Image](docs/image/banner.png)
 
 ## 📖 Overview
 
